@@ -1,0 +1,26 @@
+{
+"name": "recipe-recommendation-web-application",
+"version": "1.0.0",
+"description": " aims to develop a platform that offers personalized recipe suggestions to users based on their culinary preferences, dietary restrictions, and cooking history. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/cathypierres05/Recipe-Recommendation-Web-Application.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "cathypierres05",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
